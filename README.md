@@ -16,3 +16,11 @@ Resources for leverless / all-button controllers (ABCs)
 - Snackbox Micro - SOCD - BRBRSHP
 - Snackbox Micro - SOCD - ORNG
 - Hitbox - Input Trainer
+
+# Upcoming
+- CheatPress - SOCD - Various Colorways
+- CheatPress Stealth - SOCD
+- Cheatbox Micro - SFV - ZNGF
+- Cheatbox Micro - GGST - RMLTHL
+- Cheatbox Micro - GGST - INO
+- And some super dumb meme controllers
