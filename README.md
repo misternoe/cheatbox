@@ -3,8 +3,8 @@ Resources for leverless / all-button controllers (ABCs)
 
 # About the cheatbox project
 - Originally started as a passion project to help all the post-EVO22 hitbox newbies learn their ABCs
-– Then Twitter and Hitbox-Gate happened
-— Got motivated to help ABC users "cheat" harder
+- Then Twitter and Hitbox-Gate happened
+— Got motivated to help cheatbox users "cheat" harder
 - And here we are
 
 # Current line-up
