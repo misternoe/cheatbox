@@ -5,7 +5,7 @@ Resources for leverless / all-button controllers (ABCs)
 - Originally started as a passion project to help all the post-EVO22 hitbox newbies learn their ABCs
 - Then Twitter and Hitbox-Gate happened
 - Got motivated to help cheatbox users "cheat" harder
-- And here we are
+- And here we are, making functional meme controllers
 
 [Check out the Mpress Stealth Hype Vid on Twitter](https://twitter.com/noe_perez_/status/1565812427530420225)
 
@@ -16,3 +16,11 @@ Resources for leverless / all-button controllers (ABCs)
 - Snackbox Micro - SOCD - BRBRSHP
 - Snackbox Micro - SOCD - ORNG
 - Hitbox - Input Trainer
+
+# Upcoming
+- CheatPress - SOCD - Various Colorways
+- CheatPress Stealth - SOCD
+- Cheatbox Micro - SFV - ZNGF
+- Cheatbox Micro - GGST - RMLTHL
+- Cheatbox Micro - GGST - INO
+- And some super dumb meme controllers
