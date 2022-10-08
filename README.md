@@ -1,5 +1,6 @@
 # cheatbox
 Resources for leverless / all-button controllers (ABCs)
+[Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
 
 # About the cheatbox project
 - Originally started as a passion project to help all the post-EVO22 hitbox newbies learn their ABCs
