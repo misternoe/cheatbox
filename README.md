@@ -1,6 +1,8 @@
 # cheatbox
 Resources for leverless / all-button controllers (ABCs)
 
+[Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
+
 # About the cheatbox project
 - Originally started as a passion project to help all the post-EVO22 hitbox newbies learn their ABCs
 - Then Twitter and Hitbox-Gate happened
@@ -13,14 +15,19 @@ Resources for leverless / all-button controllers (ABCs)
 - CheatPress - SFV - JUR
 - CheatPress Stealth - SFV - JUR
 - Snackbox Micro - SFV - JUR
+- Snackbox Micro - SFV - LAR
+- Snackbox Micro - SFV - ZNGF
+- Snackbox Micro - SFV - ZNGF-SOCD
 - Snackbox Micro - SOCD - BRBRSHP
-- Snackbox Micro - SOCD - ORNG
+- Snackbox Micro - SOCD - ORNGBX
 - Hitbox - Input Trainer
 
 # Upcoming
 - CheatPress - SOCD - Various Colorways
 - CheatPress Stealth - SOCD
-- Cheatbox Micro - SFV - ZNGF
+- Cheatbox Micro - SFV - DHALSIM
+- Cheatbox Micro - SFV - LUKE
+- Cheatbox Micro - SFV - POISON
 - Cheatbox Micro - GGST - RMLTHL
 - Cheatbox Micro - GGST - INO
 - And some super dumb meme controllers
