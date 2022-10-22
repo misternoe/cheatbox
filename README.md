@@ -30,6 +30,7 @@ Resources for leverless / all-button controllers (ABCs)
 # Upcoming
 - CheatPress - SOCD - Various Colorways
 - CheatPress Stealth - SOCD
+- Cheatbox - SFV - DHALSIM
 - Cheatbox Micro - SFV - DHALSIM
 - Cheatbox Micro - SFV - LUKE
 - Cheatbox Micro - GGST - RMLTHL
