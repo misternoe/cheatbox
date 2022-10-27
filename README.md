@@ -9,6 +9,8 @@ Resources for leverless / all-button controllers (ABCs)
 - Got motivated to help cheatbox users "cheat" harder
 - And here we are, making functional meme controllers
 
+10/21/22 [Poison Edition Launch Video](https://twitter.com/noe_perez_/status/1583488518348677120)
+
 [Check out the Mpress Stealth Hype Vid on Twitter](https://twitter.com/noe_perez_/status/1565812427530420225)
 
 # Current line-up
@@ -16,18 +18,21 @@ Resources for leverless / all-button controllers (ABCs)
 - CheatPress Stealth - SFV - JUR
 - Snackbox Micro - SFV - JUR
 - Snackbox Micro - SFV - LAR
+- CheatPress - SFV - POISON
+- Cheatbox - SFV - POISON
+- Cheatbox Micro - SFV - POISON
 - Snackbox Micro - SFV - ZNGF
 - Snackbox Micro - SFV - ZNGF-SOCD
 - Snackbox Micro - SOCD - BRBRSHP
 - Snackbox Micro - SOCD - ORNGBX
-- Hitbox - Input Trainer
+- Cheatbox - Hitbox Input Trainer
 
 # Upcoming
 - CheatPress - SOCD - Various Colorways
 - CheatPress Stealth - SOCD
+- Cheatbox - SFV - DHALSIM
 - Cheatbox Micro - SFV - DHALSIM
 - Cheatbox Micro - SFV - LUKE
-- Cheatbox Micro - SFV - POISON
 - Cheatbox Micro - GGST - RMLTHL
 - Cheatbox Micro - GGST - INO
 - And some super dumb meme controllers
