@@ -14,25 +14,33 @@ Resources for leverless / all-button controllers (ABCs)
 [Check out the Mpress Stealth Hype Vid on Twitter](https://twitter.com/noe_perez_/status/1565812427530420225)
 
 # Current line-up
-- CheatPress - SFV - JUR
-- CheatPress Stealth - SFV - JUR
-- Snackbox Micro - SFV - JUR
-- Snackbox Micro - SFV - LAR
-- CheatPress - SFV - POISON
-- Cheatbox - SFV - POISON
-- Cheatbox Micro - SFV - POISON
-- Snackbox Micro - SFV - ZNGF
-- Snackbox Micro - SFV - ZNGF-SOCD
-- Snackbox Micro - SOCD - BRBRSHP
-- Snackbox Micro - SOCD - ORNGBX
+- [Snackbox Micro - SFV - GUL](https://twitter.com/noe_perez_/status/1619028822489460736)
+- [CheatPress - SFV - JUR](https://twitter.com/noe_perez_/status/1584354839945183232)
+- [CheatPress Stealth - SFV - JUR](https://twitter.com/noe_perez_/status/1570083703308574725)
+- [Snackbox Micro - SFV - JUR](https://twitter.com/noe_perez_/status/1584354839945183232)
+- [Snackbox Micro - SFV - LAR](https://twitter.com/noe_perez_/status/1576731258339864576)
+- [CheatPress - SFV - POISON](https://twitter.com/noe_perez_/status/1583488518348677120)
+- [Cheatbox - SFV - POISON](https://twitter.com/noe_perez_/status/1583616455249399808)
+- [Cheatbox Micro - SFV - POISON](https://twitter.com/noe_perez_/status/1584944122330337283)
+- [Cheatbox - SFV - ROXY x POISON](https://twitter.com/noe_perez_/status/1587867720065900549)
+- [Cheatbox Micro - SFV - ROXY x POISON](https://twitter.com/noe_perez_/status/1591116780088725504)
+- [Snackbox Micro - SFV - ZNGF](https://twitter.com/noe_perez_/status/1573340315867570176)
+- [Snackbox Micro - SFV - ZNGF-SOCD](https://twitter.com/noe_perez_/status/1573340315867570176)
+
+- [Snackbox Micro - SG - BGBND](https://twitter.com/noe_perez_/status/1614702423410626562)
+
+- [Snackbox Micro - SOCD - BRBRSHP](https://twitter.com/noe_perez_/status/1570630760545292289)
+- [Snackbox Micro - SOCD - ORNGBX](https://twitter.com/noe_perez_/status/1579558010036555776)
 - Cheatbox - Hitbox Input Trainer
 
 # Upcoming
 - CheatPress - SOCD - Various Colorways
 - CheatPress Stealth - SOCD
+
 - Cheatbox - SFV - DHALSIM
 - Cheatbox Micro - SFV - DHALSIM
 - Cheatbox Micro - SFV - LUKE
+
 - Cheatbox Micro - GGST - RMLTHL
 - Cheatbox Micro - GGST - INO
 - And some super dumb meme controllers
