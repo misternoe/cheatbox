@@ -30,6 +30,24 @@ PRINTER SETTINGS
 Layer height
 0.3 or 0.34 look great and print quickly. 0.34 looks best to me personally.
 
+/////////////
+SIZING
+/////////////
+
+FOOTSIE-LEFT
+X = 168mm
+Y = 127.25mm
+Z = 15mm
+
+FOOTSIE-RIGHT
+X = 168mm
+Y = 127.25mm
+Z = 15mm
+
+FOOTSIE-SINGLE
+X = 336mm
+Y = 127.25mm
+Z = 15mm
 
 /////////////
 INSTALLATION
