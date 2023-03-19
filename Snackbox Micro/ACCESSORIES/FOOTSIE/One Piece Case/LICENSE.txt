@@ -1,6 +1,6 @@
 License
 
-THE FOOTSIE
+THE FOOTSIE for Snackbox Micro One Piece Case
 By Cheatbox Project / @noe_perez_
 https://github.com/misternoe/cheatbox
 
@@ -15,7 +15,5 @@ NO   | Free Cultural Works
 NO   | Meets Open Definition
 
 Files:
-
-original-artworkcase-footsie-left.stl
-original-artworkcase-footsie-right.stl
-original-artworkcase-footsie-single.stl
+onepiececase-footsie-left.stl
+onepiececase-footsie-right.stl

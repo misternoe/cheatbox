@@ -1,5 +1,5 @@
 CHEATBOX_PROJECT
-FOOTSIE for OG Snackbox Micro (BETA VERSION)
+FOOTSIE for OG Snackbox Micro
 
 /////////////
 DISCLAIMER

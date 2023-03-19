@@ -1,10 +1,8 @@
 License
 
-FOOTSIE for OG Snackbox Micro
+THE FOOTSIE for Snackbox Micro Artwork Case
 By Cheatbox Project / @noe_perez_
 https://github.com/misternoe/cheatbox
-
-Testing by Worm @WakkiGG
 
 Creative Commons License
 This work is licensed under a Creative Commons (4.0 International License)
@@ -18,5 +16,6 @@ NO   | Meets Open Definition
 
 Files:
 
-og-micro-footsie-left.stl
-og-micro-footsie-right.stl
+original-artworkcase-footsie-left.stl
+original-artworkcase-footsie-right.stl
+original-artworkcase-footsie-single.stl
