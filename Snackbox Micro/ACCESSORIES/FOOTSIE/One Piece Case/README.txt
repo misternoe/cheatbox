@@ -35,12 +35,12 @@ SIZING
 /////////////
 
 FOOTSIE-LEFT
-X = 165mm
+X = 166.125mm
 Y = 129mm
 Z = 14.5mm
 
 FOOTSIE-RIGHT
-X = 165mm
+X = 166.25mm
 Y = 129mm
 Z = 14.5mm
 
