@@ -3,6 +3,7 @@ Resources for leverless / all-button controllers (ABCs)
 
 [Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
 
+New: 4/11/2023 [Cheatbox Micro Baiken released!](https://twitter.com/noe_perez_/status/1645816619053064195)
 New: 3/13/2023 Introducing the [<--FOOTSIE-->](https://twitter.com/noe_perez_/status/1635315256405938176)
 New: 2/11/23 [Take the Guilty Gear Strive Button Config Survey](https://forms.gle/ULHLjqMXmv5ZENAA9)
 
@@ -17,8 +18,9 @@ New: 2/11/23 [Take the Guilty Gear Strive Button Config Survey](https://forms.gl
 [Check out the Mpress Stealth Hype Vid on Twitter](https://twitter.com/noe_perez_/status/1565812427530420225)
 
 # Current line-up
-- [Cheatbox - GGST - BRDGT](https://twitter.com/noe_perez_/status/1638570048884178950)
-- [Snackbox Micro - GGST - BRDGT](https://twitter.com/noe_perez_/status/1634728157243637766)
+- [Snackbox Micro - GGST_BK](https://twitter.com/noe_perez_/status/1645816619053064195)
+- [Cheatbox - GGST_BR](https://twitter.com/noe_perez_/status/1638570048884178950)
+- [Snackbox Micro - GGST_BR](https://twitter.com/noe_perez_/status/1634728157243637766)
 
 - [Snackbox Micro - SFV - GUL](https://twitter.com/noe_perez_/status/1619028822489460736)
 - [CheatPress - SFV - JUR](https://twitter.com/noe_perez_/status/1584354839945183232)
@@ -42,12 +44,14 @@ New: 2/11/23 [Take the Guilty Gear Strive Button Config Survey](https://forms.gl
 # Upcoming
 - CheatPress - SOCD - Various Colorways
 - CheatPress Stealth - SOCD
+- CheatPress - GGST_BK
+- CheatPress - GGST_BR
 
+- Cheatbox - GGST_BK
 - Cheatbox - SFV - DHALSIM
 - Cheatbox Micro - SFV - DHALSIM
 - Cheatbox Micro - SFV - LUKE
 
-- Cheatbox Micro - GGST - BKN
-- Cheatbox Micro - GGST - RMLTHL
-- Cheatbox Micro - GGST - INO
+- Cheatbox Micro - GGST_RA
+- Cheatbox Micro - GGST_IN
 - And some super dumb meme controllers
