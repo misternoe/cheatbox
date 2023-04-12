@@ -4,7 +4,9 @@ Resources for leverless / all-button controllers (ABCs)
 [Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
 
 New: 4/11/2023 [Cheatbox Micro Baiken released!](https://twitter.com/noe_perez_/status/1645816619053064195)
+
 New: 3/13/2023 Introducing the [<--FOOTSIE-->](https://twitter.com/noe_perez_/status/1635315256405938176)
+
 New: 2/11/23 [Take the Guilty Gear Strive Button Config Survey](https://forms.gle/ULHLjqMXmv5ZENAA9)
 
 # About the cheatbox project
