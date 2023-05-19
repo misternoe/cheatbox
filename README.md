@@ -3,6 +3,10 @@ Resources for leverless / all-button controllers (ABCs)
 
 [Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
 
+New: 5/19/2023 [Cheatbox Micro SF6 Luke released!](https://twitter.com/noe_perez_/status/1659446216063692807)
+
+New: 5/14/2023 [Cheatboxx SF6 Ryu released!](https://twitter.com/noe_perez_/status/1657771882328870913)
+
 New: 4/20/2023 [Cheatbox Micro SF6 Ryu released!](https://twitter.com/noe_perez_/status/1649206253598408705)
 
 New: 4/20/2023 [Cheatbox Micro SF6 Kimberly released!](https://twitter.com/noe_perez_/status/1649158748055785477)
