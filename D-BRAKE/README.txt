@@ -50,10 +50,15 @@ X = 21.5654mm
 Y = 14mm
 Z = 51.0312mm
 
-CHERRY MX
+CHERRY MX - 10
 X = 21.4597mm
-Y = 15.125mm
+Y = 16mm
 Z = 51.0636mm
+
+CHERRY MX - 11
+X = 21.5962mm
+Y = 16.9823mm
+Z = 51.3884mm
 
 OBSF24
 X = 21.5567mm
