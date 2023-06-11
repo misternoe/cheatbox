@@ -1,0 +1,20 @@
+License
+
+FOOTSIE v2.0
+For Snackbox Micro One Piece Case, 2022/2023 Artwork Case, Original Artwork Case
+By Cheatbox Project / @noe_perez_
+https://github.com/misternoe/cheatbox
+
+Creative Commons License
+This work is licensed under a Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+
+NO   | Sharing without ATTRIBUTION
+YES  | Remix Culture allowed
+NO   | Commercial Use
+NO   | Free Cultural Works
+NO   | Meets Open Definition
+
+Files:
+cheatbox-project-footsie-left.stl
+cheatbox-project-footsie-right.stl
