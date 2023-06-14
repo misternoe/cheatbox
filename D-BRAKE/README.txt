@@ -42,7 +42,7 @@ It is recommended to sand down this print to provide a smoother and more comfort
 
 
 /////////////
-SIZING WHEN ORIENTED PROPERLY
+HOME PRINTING: SIZING WHEN ORIENTED PROPERLY (X= -90 degrees, Y=15 degrees)
 /////////////
 
 KAILH CHOC V1
@@ -50,25 +50,69 @@ X = 21.5654mm
 Y = 14mm
 Z = 51.0312mm
 
-CHERRY MX - 10
+CHERRY MX - SIZE 10
 X = 21.4597mm
 Y = 16mm
 Z = 51.0636mm
 
-CHERRY MX - 11
+CHERRY MX - SIZE11
 X = 21.5962mm
 Y = 16.9823mm
 Z = 51.3884mm
 
-OBSF24
+SANWA/SEIMITSU 24mm — SIZE 10
+X = 21.5717mm
+Y = 23.25mm
+Z = 50.9989mm
+
+SANWA/SEIMITSU 24mm — SIZE 10 - KRAKD
+X = 21.4273mm
+Y = 23.25mm
+Z = 50.9989mm
+
+SANWA/SEIMITSU 24mm — SIZE 11
 X = 21.5567mm
 Y = 24.25mm
-Z = 51.0636mm
+Z = 50.9989mm
 
-OBSF30
-X = 24.4936mm
+SANWA/SEIMITSU 30mm - Size 10
+X = 24.5023mm
+Y = 23.25mm
+Z = 52.3357mm
+
+SANWA/SEIMITSU 30mm - Size 11
+X = 24.4463mm
 Y = 24.25mm
-Z = 52.3444mm
+Z = 52.3357mm
+
+
+/////////////
+PRINTING SERVICES: SIZING WHEN UPLOADED
+/////////////
+
+KAILH CHOC V1
+24.92 × 50.5 × 13.93mm
+
+CHERRY MX - SIZE 10
+24.92 × 50.5 × 15.99mm
+
+CHERRY MX - SIZE 11
+24.92 × 50.5 × 16.9mm
+
+SANWA/SEIMITSU 24mm - SIZE 10
+24.92 × 50.5 × 23.14mm
+
+SANWA/SEIMITSU 24mm - SIZE 10 - KRAKD
+24.92 × 50.5 × 23.14mm
+
+SANWA/SEIMITSU 24mm - SIZE 11
+24.92 × 50.5 × 24.13mm
+
+SANWA/SEIMITSU 30mm - SIZE 10
+26.78 × 51.72 × 23.14mm
+
+SANWA/SEIMITSU 30mm - SIZE 11
+26.78 × 51.72 × 24.13mm
 
 /////////////
 INSTALLATION
