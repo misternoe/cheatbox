@@ -55,7 +55,7 @@ X = 21.4597mm
 Y = 16mm
 Z = 51.0636mm
 
-CHERRY MX - SIZE11
+CHERRY MX - SIZE 11
 X = 21.5962mm
 Y = 16.9823mm
 Z = 51.3884mm
