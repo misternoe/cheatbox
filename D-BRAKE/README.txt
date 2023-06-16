@@ -40,6 +40,11 @@ FINISHING
 It is recommended to sand down this print to provide a smoother and more comfortable surface. Use a high grit wet sandpaper (600 or higher). Please remember to take proper safety precautions to avoid inhalation by yourself and others in your vicinity.
 
 
+/////////////
+NOTE ON KAILH CHOC V1 VERSIONS
+/////////////
+Printing the original is recommended. A version with a thicker stem is available and will have a tighter fit, but it can actually pop out easier in my experience. Your mileage may vary.
+
 
 /////////////
 HOME PRINTING: SIZING WHEN ORIENTED PROPERLY (X= -90 degrees, Y=15 degrees)
@@ -91,6 +96,9 @@ PRINTING SERVICES: SIZING WHEN UPLOADED
 /////////////
 
 KAILH CHOC V1
+24.92 × 50.5 × 13.93mm
+
+KAILH CHOC V1 - THICKER STEM
 24.92 × 50.5 × 13.93mm
 
 CHERRY MX - SIZE 10
