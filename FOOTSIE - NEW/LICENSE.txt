@@ -17,6 +17,8 @@ NO   | Meets Open Definition
 
 Removal of FOOTSIE logotype and CHEATBOX_PROJECT logo and logotype are forbidden
 
+As stated above, commercial use is prohibited. Advertising private printing services or sale of CHEATBOX_PROJECT products is prohibited
+
 Files:
 cheatbox-project-footsie-left.stl
 cheatbox-project-footsie-right.stl
