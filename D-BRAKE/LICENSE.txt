@@ -21,6 +21,10 @@ NO   | Commercial Use
 NO   | Free Cultural Works
 NO   | Meets Open Definition
 
+Removal of D-BRAKE logotype and CHEATBOX_PROJECT wordmark are forbidden
+
+As stated above, commercial use is prohibited. Advertising private printing services or sale of CHEATBOX_PROJECT products is prohibited
+
 Files:
 cheatbox-project-dbrake-cherrymx-10mm.stl
 cheatbox-project-dbrake-cherrymx-11mm.stl
