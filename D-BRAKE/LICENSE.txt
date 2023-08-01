@@ -29,6 +29,7 @@ Files:
 cheatbox-project-dbrake-cherrymx-10mm.stl
 cheatbox-project-dbrake-cherrymx-11mm.stl
 cheatbox-project-dbrake-snackboxmicro-kailh-choc-v1.stl
+cheatbox-project-dbrake-snackboxmicro-kailh-choc-v1-thickerstem.stl
 cheatbox-project-dbrake-sanwa-seimitsu-KRAKD-24mm-size10.stl
 cheatbox-project-dbrake-sanwa-seimitsu-24mm-size10.stl
 cheatbox-project-dbrake-sanwa-seimitsu-24mm-size11.stl
