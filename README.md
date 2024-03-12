@@ -3,6 +3,8 @@ Resources for leverless / all-button controllers (ABCs)
 
 [Follow me on Twitter for new release and character polls](https://twitter.com/noe_perez_)
 
+[CHEATBOX_PROJECT ETSY SHOP](https://cheatboxproject.etsy.com)
+
 New: 6/11/2023 [CHEATBOX_PROJECT // FOOTSIE v2.0](https://twitter.com/noe_perez_/status/1667916644956397570)
 
 New: 6/2/2023 [CHEATBOX_PROJECT // D-BRAKE](https://twitter.com/noe_perez_/status/1664718600328957953)
@@ -10,18 +12,6 @@ New: 6/2/2023 [CHEATBOX_PROJECT // D-BRAKE](https://twitter.com/noe_perez_/statu
 New: 5/31/2023 [Cheatbox Micro SF6 Juri released!](https://twitter.com/noe_perez_/status/1663921536099598338)
  
 New: 5/19/2023 [Cheatbox Micro SF6 Luke released!](https://twitter.com/noe_perez_/status/1659446216063692807)
-
-New: 5/14/2023 [Cheatboxx SF6 Ryu released!](https://twitter.com/noe_perez_/status/1657771882328870913)
-
-New: 4/20/2023 [Cheatbox Micro SF6 Ryu released!](https://twitter.com/noe_perez_/status/1649206253598408705)
-
-New: 4/20/2023 [Cheatbox Micro SF6 Kimberly released!](https://twitter.com/noe_perez_/status/1649158748055785477)
-
-New: 4/11/2023 [Cheatbox Micro Baiken released!](https://twitter.com/noe_perez_/status/1645816619053064195)
-
-New: 3/13/2023 Introducing the [<--FOOTSIE-->](https://twitter.com/noe_perez_/status/1635315256405938176)
-
-New: 2/11/23 [Take the Guilty Gear Strive Button Config Survey](https://forms.gle/ULHLjqMXmv5ZENAA9)
 
 # About the cheatbox project
 - Originally started as a passion project to help all the post-EVO22 hitbox newbies learn their ABCs
