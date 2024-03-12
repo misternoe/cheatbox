@@ -35,4 +35,5 @@ cheatbox-project-dbrake-sanwa-seimitsu-24mm-size10.stl
 cheatbox-project-dbrake-sanwa-seimitsu-24mm-size11.stl
 cheatbox-project-dbrake-sanwa-seimitsu-30mm-size10.stl
 cheatbox-project-dbrake-sanwa-seimitsu-30mm-size10.stl
-
+remix-robear512-dbrake-qanba-gravity-30mm.stl
+remix-cheatbox-project-dbrake-qanba-gravity-30mm-size11.stl

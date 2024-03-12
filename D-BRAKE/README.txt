@@ -47,7 +47,7 @@ Printing the original is recommended. A version with a thicker stem is available
 
 
 /////////////
-HOME PRINTING: SIZING WHEN ORIENTED PROPERLY (X= -90 degrees, Y=15 degrees)
+HOME PRINTING: SIZING WHEN ORIENTED PROPERLY (X= -90 degrees, Y=15 degrees. (-25 degrees recommended for Quanta Gravity)
 /////////////
 
 KAILH CHOC V1
@@ -90,6 +90,15 @@ X = 24.4463mm
 Y = 24.25mm
 Z = 52.3357mm
 
+GRAVITY REMIX-CHEATBOX-PROJECT 30mm — Size 11
+X = 26.43mm
+Y = 31.62mm
+Z = 46.21mm
+
+GRAVITY REMIX-ROBEAR512 30mm (~Size 20)
+X = 26.77mm
+Y = 42.33mm
+Z = 45.56mm
 
 /////////////
 PRINTING SERVICES: SIZING WHEN UPLOADED
@@ -122,6 +131,12 @@ SANWA/SEIMITSU 30mm - SIZE 10
 SANWA/SEIMITSU 30mm - SIZE 11
 26.78 × 51.72 × 24.13mm
 
+GRAVITY REMIX-CHEATBOX-PROJECT 30mm — SIZE 11
+26.43 × 51.96 × 19.83mm
+
+GRAVITY REMIX-ROBEAR512 30mm
+26.77 × 51.71 × 31.64mm
+
 /////////////
 INSTALLATION
 /////////////
@@ -137,3 +152,13 @@ REPORT BACK + ENJOY
 Let me know how you're enjoying this on Twitter or here on GitHub. Constructive feedback is always welcome. Give me a follow on Twitter @noe_perez_ to keep up with other projects like this and new Cheatbox Project designs for the Snackbox Micro, Hit Box, and other all-button controllers.
 
 https://github.com/misternoe/cheatbox
+
+/////////////
+SHOUTOUTS
+/////////////
+
+@junkfoodarcades for making great products supporting the modding community
+
+@NoGoodCitizen for spreading the gospel of the Cheatbox_Project to the FGC
+
+Robear512 (@236Robear) for their dedication to bringing a Qanba Gravity D-BRAKE

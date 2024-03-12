@@ -21,7 +21,7 @@ NO   | Commercial Use
 NO   | Free Cultural Works
 NO   | Meets Open Definition
 
-As stated above, commercial use is prohibited. Advertising private printing services or sale of CHEATBOX_PROJECT products is prohibited
+As stated above, commercial use is prohibited. Advertising private printing services or sale of CHEATBOX_PROJECT products is prohibited.
 
 Files:
 cheatbox-project-drive_assist-sanwa-seimitsu-30mm.stl
