@@ -1,0 +1,29 @@
+License
+
+D-BRAKE v2.0 for Haute42 R Series Controllers - BETA
+By Cheatbox Project / @noe_perez_
+https://github.com/misternoe/cheatbox
+
+/////////////
+DISCLAIMER
+/////////////
+
+Use this product at your own risk. I am not responsible for any damages to you or your property. If you experience any pain or discomfort while using the D-BRAKE, please discontinue use immediately.
+
+
+Creative Commons License
+This work is licensed under a Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+
+NO   | Sharing without ATTRIBUTION
+YES  | Remix Culture allowed
+NO   | Commercial Use
+NO   | Free Cultural Works
+NO   | Meets Open Definition
+
+Removal of D-BRAKE logotype and CHEATBOX_PROJECT wordmark, and are forbidden. 
+
+As stated above, commercial use is prohibited. Advertising private printing services or sale of CHEATBOX_PROJECT products is prohibited
+
+Files:
+haute42-R-07mm-UNTESTED.stl
