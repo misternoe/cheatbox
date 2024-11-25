@@ -1,0 +1,21 @@
+License
+
+B16 FACEPLATE
+For Haute42 B16
+By Cheatbox Project / @noe_perez_
+https://github.com/misternoe/cheatbox
+
+Creative Commons License
+This work is licensed under a Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+
+NO   | Sharing without ATTRIBUTION
+YES  | Remix Culture allowed
+NO   | Commercial Use
+NO   | Free Cultural Works
+NO   | Meets Open Definition
+
+
+Files:
+cheatboxproject-B16-faceplate-face-down.stl
+cheatboxproject-B16-faceplate-face-up.stl
