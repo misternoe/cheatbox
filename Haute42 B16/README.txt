@@ -46,6 +46,6 @@ INSTALLATION
 REPORT BACK + ENJOY
 /////////////
 
-Let me know how testing is going on Twitter or here on GitHub. Give me a follow on Twitter @noe_perez_ to keep up with other projects like this and new Cheatbox Project designs for the Snackbox Micro, Haute42, and other all-button controllers.
+Let me know how testing is going on Twitter or here on GitHub. Give me a follow on Twitter @cheatboxproject to keep up with other projects like this and new Cheatbox Project designs for the Snackbox Micro, Haute42, and other all-button controllers.
 
 https://github.com/misternoe/cheatbox
