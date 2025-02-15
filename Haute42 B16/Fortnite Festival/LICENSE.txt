@@ -1,0 +1,20 @@
+License
+
+B16 FEST PLATE + D-BRAKE FEST PLATE
+For Haute42 B16
+By Cheatbox Project / @noe_perez_
+https://github.com/misternoe/cheatbox
+
+Creative Commons License
+This work is licensed under a Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+
+NO   | Sharing without ATTRIBUTION
+NO   | Remix Culture allowed
+NO   | Commercial Use
+NO   | Free Cultural Works
+NO   | Meets Open Definition
+
+
+Files:
+cheatboxproject-B16-festplate.stl
