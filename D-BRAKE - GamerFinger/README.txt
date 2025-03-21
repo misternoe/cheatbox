@@ -13,7 +13,8 @@ COMPATIBILITY
 ///////////////////////////////
 
 GamerFinger Snap-in and Screw-in Buttons
-Paradise Arcade MPress
+Paradise Arcade MPress (not compatible with the MPress Nano!)
+Seimitsu Alutimo
 
 /////////////
 PRINTER SETTINGS
