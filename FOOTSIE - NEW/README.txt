@@ -2,6 +2,8 @@ CHEATBOX_PROJECT
 FOOTSIE v2.0
 For Snackbox Micro One Piece Case, 2022/2023 Artwork Case, Original Artwork Case
 
+UPDATED 10/26/25 to address mesh issues
+
 /////////////
 DISCLAIMER
 /////////////
