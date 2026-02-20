@@ -17,5 +17,5 @@ NO   | Meets Open Definition
 
 
 Files:
-cheatboxproject_thumb_drive_L.stl
-cheatboxproject_thumb_drive_R.stl
+cheatboxproject_thumb_nubs_L.stl
+cheatboxproject_thumb_nubs_R.stl
