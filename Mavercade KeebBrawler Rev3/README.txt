@@ -1,5 +1,5 @@
 CHEATBOX_PROJECT
-PROJECT THUMB DRIVE
+THUMB NUBS
 For Mavercade KeebBrawler Rev3
 
 /////////////
