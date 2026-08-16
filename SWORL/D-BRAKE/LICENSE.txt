@@ -27,3 +27,4 @@ As stated above, commercial use is prohibited. Advertising private printing serv
 
 Files:
 dbrake-sworl-07mm.stl
+dbrake-sworl-08mm.stl
